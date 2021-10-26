@@ -30,6 +30,7 @@
 - [How to Imagine Linear Regression](/how-to-imagine-linear-regression/)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
 [![rakkaalhazimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakkaalhazimi&show_icons=true&theme=vue)](https://github.com/rakkaalhazimi/github-readme-stats)
 
