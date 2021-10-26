@@ -47,6 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dino Runner AI with Policy Gradient Method](https://www.youtube.com/watch?v=JTZp70w8Kks)
+- [Snotty Boy Meme  - Types of Programmers](https://www.youtube.com/watch?v=n0HemQzutPA)
+- [TW8 - 6 Operators, No Melee [Arknight EN]](https://www.youtube.com/watch?v=ulR2S-1IH14)
+- [[ENG] Minimax implementation on Tic-Tac-Toe game with Python](https://www.youtube.com/watch?v=WA8dnbTMxyM)
+- [Lost Star by Rizky Anjasmoro](https://www.youtube.com/watch?v=wx5nC8XsupE)
 <!-- YOUTUBE:END -->
 
 ---
