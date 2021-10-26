@@ -1,4 +1,4 @@
-### Hello I'm Rakka from Indonesia 👋
+![alt text](assets/Github%20Banner.png)
 
 [![Website](https://img.shields.io/website?label=MyBlog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rakkaalhazimi.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AlhazimiRakka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%rakkaalhazimi&screen_name=AlhazimiRakka)
@@ -23,8 +23,6 @@
 <!-- YOUTUBE:END -->
 
 ---
-
-### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
