@@ -1,23 +1,22 @@
 ### Hello I'm Rakka from Indonesia 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=MyBlog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rakkaalhazimi.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AlhazimiRakka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%rakkaalhazimi&screen_name=AlhazimiRakka)
 
 ## I'm a self-taugh programmer who focused on Machine Learning
 
 - 🔭 I'm a lecturer in [Databangalore Id](https://databangalore.co.id/)!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning python and math for machine learning.
 - 👯 I’m looking forward for data science related Internship.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="rakkaalhazimi.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rakkaalhazimi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="rakkaalhazimi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rakkaalhazimi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rakkaalhazimi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -93,7 +92,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://rakkaalhazimi.github.io/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/AlhazimiRakka
 [youtube]: https://www.youtube.com/channel/UC5IICzbw9eHLz_Qu5EWOgdQ
