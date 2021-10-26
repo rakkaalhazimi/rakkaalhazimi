@@ -58,12 +58,8 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![rakkaalhazimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakkaalhazimi)](https://github.com/rakkaalhazimi/github-readme-stats)
 
-  <img align="left" alt="rakkaalhazimi's GitHub Stats" src="https://github-readme-stats.rakkaalhazimi.vercel.app/api?username=rakkaalhazimi&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://rakkaalhazimi.github.io/
 [course]: http://vsCodeHero.com
