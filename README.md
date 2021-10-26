@@ -22,12 +22,9 @@
 - [Lost Star by Rizky Anjasmoro](https://www.youtube.com/watch?v=wx5nC8XsupE)
 <!-- YOUTUBE:END -->
 
----
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
 
 [![rakkaalhazimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakkaalhazimi&show_icons=true&theme=vue)](https://github.com/rakkaalhazimi/github-readme-stats)
 
