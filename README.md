@@ -63,7 +63,7 @@
 
 ---
 
-[![rakkaalhazimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakkaalhazimi)](https://github.com/rakkaalhazimi/github-readme-stats)
+[![rakkaalhazimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakkaalhazimi&show_icons=true&theme=vue)](https://github.com/rakkaalhazimi/github-readme-stats)
 
 
 [website]: https://rakkaalhazimi.github.io/
