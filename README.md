@@ -12,7 +12,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Dino Runner AI with Policy Gradient Method](https://www.youtube.com/watch?v=JTZp70w8Kks)
@@ -21,6 +21,10 @@
 - [[ENG] Minimax implementation on Tic-Tac-Toe game with Python](https://www.youtube.com/watch?v=WA8dnbTMxyM)
 - [Lost Star by Rizky Anjasmoro](https://www.youtube.com/watch?v=wx5nC8XsupE)
 <!-- YOUTUBE:END -->
+
+---
+
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
