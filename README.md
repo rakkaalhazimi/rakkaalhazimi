@@ -27,6 +27,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Imagine Linear Regression](/how-to-imagine-linear-regression/)
 <!-- BLOG-POST-LIST:END -->
 
 
