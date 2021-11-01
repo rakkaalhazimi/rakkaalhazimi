@@ -27,6 +27,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [KNN in High Dimensional Data](https://rakkaalhazimi.github.io/knn-in-high-dimensional-data/)
 - [How to Imagine Linear Regression](https://rakkaalhazimi.github.io/how-to-imagine-linear-regression/)
 <!-- BLOG-POST-LIST:END -->
 
