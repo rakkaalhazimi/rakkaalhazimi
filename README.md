@@ -35,6 +35,8 @@
 
 ### Recent Github Activities:
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#21745](https://github.com/scikit-learn/scikit-learn/issues/21745) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+2. ❗️ Opened issue [#21745](https://github.com/scikit-learn/scikit-learn/issues/21745) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 <!--END_SECTION:activity-->
 
 ---
