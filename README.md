@@ -33,6 +33,12 @@
 
 ---
 
+### Recent Github Activities:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 [![rakkaalhazimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakkaalhazimi&show_icons=true&theme=vue)](https://github.com/rakkaalhazimi/github-readme-stats)
 
 
