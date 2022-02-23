@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 🗣 Commented on [#21745](https://github.com/scikit-learn/scikit-learn/issues/21745) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
-2. ❗️ Opened issue [#21745](https://github.com/scikit-learn/scikit-learn/issues/21745) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+1. 📔 Created new repository [rakkaalhazimi/Portofolio-Website](https://github.com/rakkaalhazimi/Portofolio-Website)
+2. 📔 Created new repository [rakkaalhazimi/Prediksi-Harga-Emas](https://github.com/rakkaalhazimi/Prediksi-Harga-Emas)
 <!--RECENT_ACTIVITY:end-->
 
 ---
