@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Portofolio-Website](https://github.com/rakkaalhazimi/Portofolio-Website)
-2. 📔 Created new repository [rakkaalhazimi/Prediksi-Harga-Emas](https://github.com/rakkaalhazimi/Prediksi-Harga-Emas)
+1. ⭐ Starred [rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia)
+2. 📔 Created new repository [rakkaalhazimi/Portofolio-Website](https://github.com/rakkaalhazimi/Portofolio-Website)
 <!--RECENT_ACTIVITY:end-->
 
 ---
