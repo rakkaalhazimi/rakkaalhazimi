@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia)
-2. 📔 Created new repository [rakkaalhazimi/Portofolio-Website](https://github.com/rakkaalhazimi/Portofolio-Website)
+1. 📔 Created new repository [rakkaalhazimi/data-engineer-course](https://github.com/rakkaalhazimi/data-engineer-course)
+2. ⭐ Starred [rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia)
 <!--RECENT_ACTIVITY:end-->
 
 ---
