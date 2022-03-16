@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/arknights-voicelines-scrapper](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper)
-2. 📔 Created new repository [rakkaalhazimi/data-engineer-course](https://github.com/rakkaalhazimi/data-engineer-course)
+1. ✌️ Released [First version](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper/releases/tag/v1.0.0) in [rakkaalhazimi/arknights-voicelines-scrapper](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper)
+2. 📔 Created new repository [rakkaalhazimi/arknights-voicelines-scrapper](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper)
 <!--RECENT_ACTIVITY:end-->
 
 ---
