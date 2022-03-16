@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/data-engineer-course](https://github.com/rakkaalhazimi/data-engineer-course)
-2. ⭐ Starred [rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia)
+1. 📔 Created new repository [rakkaalhazimi/arknights-voicelines-scrapper](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper)
+2. 📔 Created new repository [rakkaalhazimi/data-engineer-course](https://github.com/rakkaalhazimi/data-engineer-course)
 <!--RECENT_ACTIVITY:end-->
 
 ---
