@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [First version](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper/releases/tag/v1.0.0) in [rakkaalhazimi/arknights-voicelines-scrapper](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper)
-2. 📔 Created new repository [rakkaalhazimi/arknights-voicelines-scrapper](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper)
+1. ✌️ Released [Structure Change](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper/releases/tag/v1.2.0) in [rakkaalhazimi/arknights-voicelines-scrapper](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper)
+2. ✌️ Released [First version](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper/releases/tag/v1.0.0) in [rakkaalhazimi/arknights-voicelines-scrapper](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper)
 <!--RECENT_ACTIVITY:end-->
 
 ---
