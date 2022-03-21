@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
-2. ✌️ Released [Structure Change](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper/releases/tag/v1.2.0) in [rakkaalhazimi/arknights-voicelines-scrapper](https://github.com/rakkaalhazimi/arknights-voicelines-scrapper)
+1. 📔 Created new repository [rakkaalhazimi/node-js-tutorial](https://github.com/rakkaalhazimi/node-js-tutorial)
+2. ⭐ Starred [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 <!--RECENT_ACTIVITY:end-->
 
 ---
