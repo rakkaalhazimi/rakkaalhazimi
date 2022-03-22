@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/node-js-tutorial](https://github.com/rakkaalhazimi/node-js-tutorial)
-2. ⭐ Starred [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+1. 📔 Created new repository [rakkaalhazimi/Python-design-patterns](https://github.com/rakkaalhazimi/Python-design-patterns)
+2. 📔 Created new repository [rakkaalhazimi/node-js-tutorial](https://github.com/rakkaalhazimi/node-js-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
