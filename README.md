@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Python-design-patterns](https://github.com/rakkaalhazimi/Python-design-patterns)
-2. 📔 Created new repository [rakkaalhazimi/node-js-tutorial](https://github.com/rakkaalhazimi/node-js-tutorial)
+1. ⭐ Starred [joyzoursky/docker-python-chromedriver](https://github.com/joyzoursky/docker-python-chromedriver)
+2. 📔 Created new repository [rakkaalhazimi/Python-design-patterns](https://github.com/rakkaalhazimi/Python-design-patterns)
 <!--RECENT_ACTIVITY:end-->
 
 ---
