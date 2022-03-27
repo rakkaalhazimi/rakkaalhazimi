@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joyzoursky/docker-python-chromedriver](https://github.com/joyzoursky/docker-python-chromedriver)
-2. 📔 Created new repository [rakkaalhazimi/Python-design-patterns](https://github.com/rakkaalhazimi/Python-design-patterns)
+1. 📔 Created new repository [rakkaalhazimi/Webscraping-with-Puppeteer](https://github.com/rakkaalhazimi/Webscraping-with-Puppeteer)
+2. ⭐ Starred [joyzoursky/docker-python-chromedriver](https://github.com/joyzoursky/docker-python-chromedriver)
 <!--RECENT_ACTIVITY:end-->
 
 ---
