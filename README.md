@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Webscraping-with-Puppeteer](https://github.com/rakkaalhazimi/Webscraping-with-Puppeteer)
-2. ⭐ Starred [joyzoursky/docker-python-chromedriver](https://github.com/joyzoursky/docker-python-chromedriver)
+1. 📔 Created new repository [rakkaalhazimi/MongoDB-Tutorial](https://github.com/rakkaalhazimi/MongoDB-Tutorial)
+2. 📔 Created new repository [rakkaalhazimi/Webscraping-with-Puppeteer](https://github.com/rakkaalhazimi/Webscraping-with-Puppeteer)
 <!--RECENT_ACTIVITY:end-->
 
 ---
