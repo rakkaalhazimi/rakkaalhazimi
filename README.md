@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Elasticsearch-Tutorial](https://github.com/rakkaalhazimi/Elasticsearch-Tutorial)
-2. ⭐ Starred [jod35/Introduction-to-SQLAlchemy](https://github.com/jod35/Introduction-to-SQLAlchemy)
+1. ⭐ Starred [yougov/mongo-connector](https://github.com/yougov/mongo-connector)
+2. 📔 Created new repository [rakkaalhazimi/Elasticsearch-Tutorial](https://github.com/rakkaalhazimi/Elasticsearch-Tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
