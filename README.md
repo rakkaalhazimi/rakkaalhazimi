@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yougov/mongo-connector](https://github.com/yougov/mongo-connector)
-2. 📔 Created new repository [rakkaalhazimi/Elasticsearch-Tutorial](https://github.com/rakkaalhazimi/Elasticsearch-Tutorial)
+1. 📔 Created new repository [rakkaalhazimi/Dataset-Tabular](https://github.com/rakkaalhazimi/Dataset-Tabular)
+2. ⭐ Starred [yougov/mongo-connector](https://github.com/yougov/mongo-connector)
 <!--RECENT_ACTIVITY:end-->
 
 ---
