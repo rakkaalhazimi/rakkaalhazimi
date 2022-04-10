@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Dataset-Tabular](https://github.com/rakkaalhazimi/Dataset-Tabular)
-2. ⭐ Starred [yougov/mongo-connector](https://github.com/yougov/mongo-connector)
+1. 📔 Created new repository [rakkaalhazimi/esmongo](https://github.com/rakkaalhazimi/esmongo)
+2. 📔 Created new repository [rakkaalhazimi/Dataset-Tabular](https://github.com/rakkaalhazimi/Dataset-Tabular)
 <!--RECENT_ACTIVITY:end-->
 
 ---
