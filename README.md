@@ -15,11 +15,11 @@
 ### YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[IDN] Python Intermediate - Mengulik Fitur Import](https://www.youtube.com/watch?v=duNMt9k22Hw)
 - [[Arknight EN] Lappland Supremacy !! - DH-S-2 Challenge Mode](https://www.youtube.com/watch?v=aK4tEFsXpUM)
 - [[Arknight - Untitled World] Ascii Frame with Python](https://www.youtube.com/watch?v=saqsllN1qpk)
 - [Dino Runner AI with Policy Gradient Method](https://www.youtube.com/watch?v=JTZp70w8Kks)
 - [Snotty Boy Meme  - Types of Programmers](https://www.youtube.com/watch?v=n0HemQzutPA)
-- [TW8 - 6 Operators, No Melee [Arknight EN]](https://www.youtube.com/watch?v=ulR2S-1IH14)
 <!-- YOUTUBE:END -->
 
 ---
