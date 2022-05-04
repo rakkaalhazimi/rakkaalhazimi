@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/proyek-sumenep](https://github.com/rakkaalhazimi/proyek-sumenep)
-2. 💪 Opened PR [#1](https://github.com/keane13/NLP-Hotel-Review-App/pull/1) in [keane13/NLP-Hotel-Review-App](https://github.com/keane13/NLP-Hotel-Review-App)
+1. 📔 Created new repository [rakkaalhazimi/athlete-website](https://github.com/rakkaalhazimi/athlete-website)
+2. 📔 Created new repository [rakkaalhazimi/proyek-sumenep](https://github.com/rakkaalhazimi/proyek-sumenep)
 <!--RECENT_ACTIVITY:end-->
 
 ---
