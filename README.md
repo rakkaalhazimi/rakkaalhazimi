@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/athlete-website](https://github.com/rakkaalhazimi/athlete-website)
-2. 📔 Created new repository [rakkaalhazimi/proyek-sumenep](https://github.com/rakkaalhazimi/proyek-sumenep)
+1. 📔 Created new repository [rakkaalhazimi/HM-Recommender-with-Kedro](https://github.com/rakkaalhazimi/HM-Recommender-with-Kedro)
+2. 📔 Created new repository [rakkaalhazimi/athlete-website](https://github.com/rakkaalhazimi/athlete-website)
 <!--RECENT_ACTIVITY:end-->
 
 ---
