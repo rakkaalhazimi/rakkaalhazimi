@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Loan-Status-Prediction](https://github.com/rakkaalhazimi/Loan-Status-Prediction)
-2. 📔 Created new repository [rakkaalhazimi/HM-Recommender-with-Kedro](https://github.com/rakkaalhazimi/HM-Recommender-with-Kedro)
+1. ⭐ Starred [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
+2. 📔 Created new repository [rakkaalhazimi/Loan-Status-Prediction](https://github.com/rakkaalhazimi/Loan-Status-Prediction)
 <!--RECENT_ACTIVITY:end-->
 
 ---
