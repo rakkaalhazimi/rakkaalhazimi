@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
-2. 📔 Created new repository [rakkaalhazimi/Loan-Status-Prediction](https://github.com/rakkaalhazimi/Loan-Status-Prediction)
+1. 📔 Created new repository [rakkaalhazimi/pyspark-basic](https://github.com/rakkaalhazimi/pyspark-basic)
+2. ⭐ Starred [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
 <!--RECENT_ACTIVITY:end-->
 
 ---
