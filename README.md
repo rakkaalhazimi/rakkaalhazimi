@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/pyspark-basic](https://github.com/rakkaalhazimi/pyspark-basic)
-2. ⭐ Starred [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
+1. 📔 Created new repository [rakkaalhazimi/Flask-Template](https://github.com/rakkaalhazimi/Flask-Template)
+2. 📔 Created new repository [rakkaalhazimi/pyspark-basic](https://github.com/rakkaalhazimi/pyspark-basic)
 <!--RECENT_ACTIVITY:end-->
 
 ---
