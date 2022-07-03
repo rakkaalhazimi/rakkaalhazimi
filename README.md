@@ -36,7 +36,7 @@
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
 1. 🤝 Became collaborator on [rakkaalhazimi/Olshop-Analysis](https://github.com/rakkaalhazimi/Olshop-Analysis)
-2. 🎉 Merged PR [#3](https://github.com/rakkaalhazimi/Olshop-Analysis/pull/3) in [rakkaalhazimi/Olshop-Analysis](https://github.com/rakkaalhazimi/Olshop-Analysis)
+2. 🤝 Became collaborator on [rakkaalhazimi/Olshop-Analysis](https://github.com/rakkaalhazimi/Olshop-Analysis)
 <!--RECENT_ACTIVITY:end-->
 
 ---
