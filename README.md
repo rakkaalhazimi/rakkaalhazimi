@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Flask-Template](https://github.com/rakkaalhazimi/Flask-Template)
-2. 📔 Created new repository [rakkaalhazimi/pyspark-basic](https://github.com/rakkaalhazimi/pyspark-basic)
+1. 🎉 Merged PR [#2](https://github.com/rakkaalhazimi/Olshop-Analysis/pull/2) in [rakkaalhazimi/Olshop-Analysis](https://github.com/rakkaalhazimi/Olshop-Analysis)
+2. 💪 Opened PR [#2](https://github.com/rakkaalhazimi/Olshop-Analysis/pull/2) in [rakkaalhazimi/Olshop-Analysis](https://github.com/rakkaalhazimi/Olshop-Analysis)
 <!--RECENT_ACTIVITY:end-->
 
 ---
