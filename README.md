@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/rakkaalhazimi/Olshop-Analysis/pull/2) in [rakkaalhazimi/Olshop-Analysis](https://github.com/rakkaalhazimi/Olshop-Analysis)
-2. 💪 Opened PR [#2](https://github.com/rakkaalhazimi/Olshop-Analysis/pull/2) in [rakkaalhazimi/Olshop-Analysis](https://github.com/rakkaalhazimi/Olshop-Analysis)
+1. 🎉 Merged PR [#3](https://github.com/rakkaalhazimi/Olshop-Analysis/pull/3) in [rakkaalhazimi/Olshop-Analysis](https://github.com/rakkaalhazimi/Olshop-Analysis)
+2. 🎉 Merged PR [#2](https://github.com/rakkaalhazimi/Olshop-Analysis/pull/2) in [rakkaalhazimi/Olshop-Analysis](https://github.com/rakkaalhazimi/Olshop-Analysis)
 <!--RECENT_ACTIVITY:end-->
 
 ---
