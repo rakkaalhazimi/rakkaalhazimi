@@ -35,7 +35,7 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [rakkaalhazimi/Olshop-Analysis](https://github.com/rakkaalhazimi/Olshop-Analysis)
+1. 📔 Created new repository [rakkaalhazimi/Olshop-Scraper](https://github.com/rakkaalhazimi/Olshop-Scraper)
 2. 🤝 Became collaborator on [rakkaalhazimi/Olshop-Analysis](https://github.com/rakkaalhazimi/Olshop-Analysis)
 <!--RECENT_ACTIVITY:end-->
 
