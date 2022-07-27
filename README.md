@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [rakkaalhazimi/Olshop-Scraper](https://github.com/rakkaalhazimi/Olshop-Scraper)
-2. 📔 Created new repository [rakkaalhazimi/Olshop-Scraper](https://github.com/rakkaalhazimi/Olshop-Scraper)
+1. 📔 Created new repository [rakkaalhazimi/screening](https://github.com/rakkaalhazimi/screening)
+2. 📔 Created new repository [rakkaalhazimi/screening](https://github.com/rakkaalhazimi/screening)
 <!--RECENT_ACTIVITY:end-->
 
 ---
