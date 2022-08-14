@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/PHP_tutorial](https://github.com/rakkaalhazimi/PHP_tutorial)
-2. 📔 Created new repository [rakkaalhazimi/screening](https://github.com/rakkaalhazimi/screening)
+1. 📔 Created new repository [rakkaalhazimi/Golang-Tutorial](https://github.com/rakkaalhazimi/Golang-Tutorial)
+2. 📔 Created new repository [rakkaalhazimi/PHP_tutorial](https://github.com/rakkaalhazimi/PHP_tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
