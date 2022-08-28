@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Golang-Tutorial](https://github.com/rakkaalhazimi/Golang-Tutorial)
-2. 📔 Created new repository [rakkaalhazimi/PHP_tutorial](https://github.com/rakkaalhazimi/PHP_tutorial)
+1. 🔱 Forked [rakkaalhazimi/streamlit-fauna-image-classification](https://github.com/rakkaalhazimi/streamlit-fauna-image-classification) from [Adeputras17/streamlit-fauna-image-classification](https://github.com/Adeputras17/streamlit-fauna-image-classification)
+2. 📔 Created new repository [rakkaalhazimi/Golang-Tutorial](https://github.com/rakkaalhazimi/Golang-Tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
