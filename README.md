@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Vue-Blogspot](https://github.com/rakkaalhazimi/Vue-Blogspot)
-2. 🔱 Forked [rakkaalhazimi/streamlit-fauna-image-classification](https://github.com/rakkaalhazimi/streamlit-fauna-image-classification) from [Adeputras17/streamlit-fauna-image-classification](https://github.com/Adeputras17/streamlit-fauna-image-classification)
+1. ⭐ Starred [quilljs/quill](https://github.com/quilljs/quill)
+2. ⭐ Starred [tinymce/tinymce-vue](https://github.com/tinymce/tinymce-vue)
 <!--RECENT_ACTIVITY:end-->
 
 ---
