@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [quilljs/quill](https://github.com/quilljs/quill)
-2. ⭐ Starred [tinymce/tinymce-vue](https://github.com/tinymce/tinymce-vue)
+1. ⭐ Starred [naufaldi/frontend-engineer-interview-indonesia](https://github.com/naufaldi/frontend-engineer-interview-indonesia)
+2. ⭐ Starred [quilljs/quill](https://github.com/quilljs/quill)
 <!--RECENT_ACTIVITY:end-->
 
 ---
