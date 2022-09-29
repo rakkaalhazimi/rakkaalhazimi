@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [naufaldi/frontend-engineer-interview-indonesia](https://github.com/naufaldi/frontend-engineer-interview-indonesia)
-2. ⭐ Starred [quilljs/quill](https://github.com/quilljs/quill)
+1. 📔 Created new repository [rakkaalhazimi/ml_blog](https://github.com/rakkaalhazimi/ml_blog)
+2. ⭐ Starred [naufaldi/frontend-engineer-interview-indonesia](https://github.com/naufaldi/frontend-engineer-interview-indonesia)
 <!--RECENT_ACTIVITY:end-->
 
 ---
