@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/ml_blog](https://github.com/rakkaalhazimi/ml_blog)
-2. ⭐ Starred [naufaldi/frontend-engineer-interview-indonesia](https://github.com/naufaldi/frontend-engineer-interview-indonesia)
+1. 🔱 Forked [rakkaalhazimi/express-crash-course](https://github.com/rakkaalhazimi/express-crash-course) from [WebDevSimplified/express-crash-course](https://github.com/WebDevSimplified/express-crash-course)
+2. 📔 Created new repository [rakkaalhazimi/ml_blog](https://github.com/rakkaalhazimi/ml_blog)
 <!--RECENT_ACTIVITY:end-->
 
 ---
