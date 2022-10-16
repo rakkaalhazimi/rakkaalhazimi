@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/widya-rest-api](https://github.com/rakkaalhazimi/widya-rest-api)
-2. 🔱 Forked [rakkaalhazimi/express-crash-course](https://github.com/rakkaalhazimi/express-crash-course) from [WebDevSimplified/express-crash-course](https://github.com/WebDevSimplified/express-crash-course)
+1. 📔 Created new repository [rakkaalhazimi/Django-Tutorial](https://github.com/rakkaalhazimi/Django-Tutorial)
+2. 📔 Created new repository [rakkaalhazimi/Flask-Tutorial](https://github.com/rakkaalhazimi/Flask-Tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
