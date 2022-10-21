@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Quiz-Prototype-Website](https://github.com/rakkaalhazimi/Quiz-Prototype-Website)
-2. ⭐ Starred [lucrae/django-cheat-sheet](https://github.com/lucrae/django-cheat-sheet)
+1. 📔 Created new repository [rakkaalhazimi/Student-CRUD-NodeJS](https://github.com/rakkaalhazimi/Student-CRUD-NodeJS)
+2. 📔 Created new repository [rakkaalhazimi/Quiz-Prototype-Website](https://github.com/rakkaalhazimi/Quiz-Prototype-Website)
 <!--RECENT_ACTIVITY:end-->
 
 ---
