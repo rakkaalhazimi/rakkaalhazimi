@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Student-CRUD-NodeJS](https://github.com/rakkaalhazimi/Student-CRUD-NodeJS)
-2. 📔 Created new repository [rakkaalhazimi/Quiz-Prototype-Website](https://github.com/rakkaalhazimi/Quiz-Prototype-Website)
+1. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+2. 📔 Created new repository [rakkaalhazimi/Student-CRUD-NodeJS](https://github.com/rakkaalhazimi/Student-CRUD-NodeJS)
 <!--RECENT_ACTIVITY:end-->
 
 ---
