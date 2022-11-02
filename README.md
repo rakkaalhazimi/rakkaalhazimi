@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Docker_Tutorial](https://github.com/rakkaalhazimi/Docker_Tutorial)
-2. ⭐ Starred [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+1. 📔 Created new repository [rakkaalhazimi/Pytorch-Tutorial](https://github.com/rakkaalhazimi/Pytorch-Tutorial)
+2. 📔 Created new repository [rakkaalhazimi/Docker_Tutorial](https://github.com/rakkaalhazimi/Docker_Tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
