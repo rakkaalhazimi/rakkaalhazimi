@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Pytorch-Tutorial](https://github.com/rakkaalhazimi/Pytorch-Tutorial)
-2. 📔 Created new repository [rakkaalhazimi/Docker_Tutorial](https://github.com/rakkaalhazimi/Docker_Tutorial)
+1. 📔 Created new repository [rakkaalhazimi/Scrapy-Tutorial](https://github.com/rakkaalhazimi/Scrapy-Tutorial)
+2. 📔 Created new repository [rakkaalhazimi/Pytorch-Tutorial](https://github.com/rakkaalhazimi/Pytorch-Tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
