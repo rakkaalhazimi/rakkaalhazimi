@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Scrapy-Tutorial](https://github.com/rakkaalhazimi/Scrapy-Tutorial)
-2. 📔 Created new repository [rakkaalhazimi/Pytorch-Tutorial](https://github.com/rakkaalhazimi/Pytorch-Tutorial)
+1. 🔱 Forked [rakkaalhazimi/Distributed-Multi-User-Scrapy-System-with-a-Web-UI](https://github.com/rakkaalhazimi/Distributed-Multi-User-Scrapy-System-with-a-Web-UI) from [aaldaber/Distributed-Multi-User-Scrapy-System-with-a-Web-UI](https://github.com/aaldaber/Distributed-Multi-User-Scrapy-System-with-a-Web-UI)
+2. 📔 Created new repository [rakkaalhazimi/Scrapy-Tutorial](https://github.com/rakkaalhazimi/Scrapy-Tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
