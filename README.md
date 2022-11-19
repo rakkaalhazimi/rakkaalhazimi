@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [rakkaalhazimi/Distributed-Multi-User-Scrapy-System-with-a-Web-UI](https://github.com/rakkaalhazimi/Distributed-Multi-User-Scrapy-System-with-a-Web-UI) from [aaldaber/Distributed-Multi-User-Scrapy-System-with-a-Web-UI](https://github.com/aaldaber/Distributed-Multi-User-Scrapy-System-with-a-Web-UI)
-2. 📔 Created new repository [rakkaalhazimi/Scrapy-Tutorial](https://github.com/rakkaalhazimi/Scrapy-Tutorial)
+1. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+2. 🔱 Forked [rakkaalhazimi/Distributed-Multi-User-Scrapy-System-with-a-Web-UI](https://github.com/rakkaalhazimi/Distributed-Multi-User-Scrapy-System-with-a-Web-UI) from [aaldaber/Distributed-Multi-User-Scrapy-System-with-a-Web-UI](https://github.com/aaldaber/Distributed-Multi-User-Scrapy-System-with-a-Web-UI)
 <!--RECENT_ACTIVITY:end-->
 
 ---
