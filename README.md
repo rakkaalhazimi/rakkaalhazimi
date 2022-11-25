@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [my8100/scrapydweb](https://github.com/my8100/scrapydweb)
-2. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+1. ⭐ Starred [golovers/effective-go](https://github.com/golovers/effective-go)
+2. ⭐ Starred [my8100/scrapydweb](https://github.com/my8100/scrapydweb)
 <!--RECENT_ACTIVITY:end-->
 
 ---
