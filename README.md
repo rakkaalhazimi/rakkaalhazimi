@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [golovers/effective-go](https://github.com/golovers/effective-go)
-2. ⭐ Starred [my8100/scrapydweb](https://github.com/my8100/scrapydweb)
+1. ⭐ Starred [J-Rios/multicolorcaptcha](https://github.com/J-Rios/multicolorcaptcha)
+2. ⭐ Starred [golovers/effective-go](https://github.com/golovers/effective-go)
 <!--RECENT_ACTIVITY:end-->
 
 ---
