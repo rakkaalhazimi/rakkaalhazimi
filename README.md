@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [rakkaalhazimi/Introduction-to-SQLAlchemy](https://github.com/rakkaalhazimi/Introduction-to-SQLAlchemy) from [jod35/Introduction-to-SQLAlchemy](https://github.com/jod35/Introduction-to-SQLAlchemy)
-2. ⭐ Starred [J-Rios/multicolorcaptcha](https://github.com/J-Rios/multicolorcaptcha)
+1. 📔 Created new repository [rakkaalhazimi/ParameterRecorder](https://github.com/rakkaalhazimi/ParameterRecorder)
+2. 🔱 Forked [rakkaalhazimi/Introduction-to-SQLAlchemy](https://github.com/rakkaalhazimi/Introduction-to-SQLAlchemy) from [jod35/Introduction-to-SQLAlchemy](https://github.com/jod35/Introduction-to-SQLAlchemy)
 <!--RECENT_ACTIVITY:end-->
 
 ---
