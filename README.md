@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/ParameterRecorder](https://github.com/rakkaalhazimi/ParameterRecorder)
-2. 🔱 Forked [rakkaalhazimi/Introduction-to-SQLAlchemy](https://github.com/rakkaalhazimi/Introduction-to-SQLAlchemy) from [jod35/Introduction-to-SQLAlchemy](https://github.com/jod35/Introduction-to-SQLAlchemy)
+1. 📔 Created new repository [rakkaalhazimi/Event-Driven-Architecture-Golang](https://github.com/rakkaalhazimi/Event-Driven-Architecture-Golang)
+2. 📔 Created new repository [rakkaalhazimi/ParameterRecorder](https://github.com/rakkaalhazimi/ParameterRecorder)
 <!--RECENT_ACTIVITY:end-->
 
 ---
