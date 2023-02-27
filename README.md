@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [romanedgn/snake-game](https://github.com/romanedgn/snake-game)
-2. 📔 Created new repository [rakkaalhazimi/Event-Driven-Architecture-Golang](https://github.com/rakkaalhazimi/Event-Driven-Architecture-Golang)
+1. ⭐ Starred [mifi/editly](https://github.com/mifi/editly)
+2. ⭐ Starred [romanedgn/snake-game](https://github.com/romanedgn/snake-game)
 <!--RECENT_ACTIVITY:end-->
 
 ---
