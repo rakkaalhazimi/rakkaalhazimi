@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Event-Driven-Architecture-Golang](https://github.com/rakkaalhazimi/Event-Driven-Architecture-Golang)
-2. 📔 Created new repository [rakkaalhazimi/ParameterRecorder](https://github.com/rakkaalhazimi/ParameterRecorder)
+1. ⭐ Starred [romanedgn/snake-game](https://github.com/romanedgn/snake-game)
+2. 📔 Created new repository [rakkaalhazimi/Event-Driven-Architecture-Golang](https://github.com/rakkaalhazimi/Event-Driven-Architecture-Golang)
 <!--RECENT_ACTIVITY:end-->
 
 ---
