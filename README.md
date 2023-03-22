@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mifi/editly](https://github.com/mifi/editly)
-2. ⭐ Starred [romanedgn/snake-game](https://github.com/romanedgn/snake-game)
+1. 📔 Created new repository [rakkaalhazimi/FastAPI-Tutorial](https://github.com/rakkaalhazimi/FastAPI-Tutorial)
+2. ⭐ Starred [mifi/editly](https://github.com/mifi/editly)
 <!--RECENT_ACTIVITY:end-->
 
 ---
