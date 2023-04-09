@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/FastAPI-Tutorial](https://github.com/rakkaalhazimi/FastAPI-Tutorial)
-2. ⭐ Starred [mifi/editly](https://github.com/mifi/editly)
+1. ⭐ Starred [JfrAziz/datavizs-geojson](https://github.com/JfrAziz/datavizs-geojson)
+2. 📔 Created new repository [rakkaalhazimi/FastAPI-Tutorial](https://github.com/rakkaalhazimi/FastAPI-Tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
