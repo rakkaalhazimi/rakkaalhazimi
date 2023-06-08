@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JfrAziz/datavizs-geojson](https://github.com/JfrAziz/datavizs-geojson)
-2. 📔 Created new repository [rakkaalhazimi/FastAPI-Tutorial](https://github.com/rakkaalhazimi/FastAPI-Tutorial)
+1. 📔 Created new repository [rakkaalhazimi/GcloudRunFlaskTest](https://github.com/rakkaalhazimi/GcloudRunFlaskTest)
+2. ⭐ Starred [JfrAziz/datavizs-geojson](https://github.com/JfrAziz/datavizs-geojson)
 <!--RECENT_ACTIVITY:end-->
 
 ---
