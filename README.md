@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/GcloudRunFlaskTest](https://github.com/rakkaalhazimi/GcloudRunFlaskTest)
-2. ⭐ Starred [JfrAziz/datavizs-geojson](https://github.com/JfrAziz/datavizs-geojson)
+1. 📔 Created new repository [rakkaalhazimi/TestProjectGit3](https://github.com/rakkaalhazimi/TestProjectGit3)
+2. 📔 Created new repository [rakkaalhazimi/TestProjectGit2](https://github.com/rakkaalhazimi/TestProjectGit2)
 <!--RECENT_ACTIVITY:end-->
 
 ---
