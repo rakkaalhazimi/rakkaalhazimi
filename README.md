@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/TestProjectGit3](https://github.com/rakkaalhazimi/TestProjectGit3)
-2. 📔 Created new repository [rakkaalhazimi/TestProjectGit2](https://github.com/rakkaalhazimi/TestProjectGit2)
+1. ⭐ Starred [fedorae-com/nuxt-uikit](https://github.com/fedorae-com/nuxt-uikit)
+2. 📔 Created new repository [rakkaalhazimi/TestProjectGit3](https://github.com/rakkaalhazimi/TestProjectGit3)
 <!--RECENT_ACTIVITY:end-->
 
 ---
