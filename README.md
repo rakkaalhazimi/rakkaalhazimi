@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Wikidepia/g2p-id](https://github.com/Wikidepia/g2p-id)
-2. 📔 Created new repository [rakkaalhazimi/VersalearnWebclient](https://github.com/rakkaalhazimi/VersalearnWebclient)
+1. ⭐ Starred [toadjaune/pulseaudio-config](https://github.com/toadjaune/pulseaudio-config)
+2. ⭐ Starred [Wikidepia/g2p-id](https://github.com/Wikidepia/g2p-id)
 <!--RECENT_ACTIVITY:end-->
 
 ---
