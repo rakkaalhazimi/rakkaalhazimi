@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [toadjaune/pulseaudio-config](https://github.com/toadjaune/pulseaudio-config)
-2. ⭐ Starred [Wikidepia/g2p-id](https://github.com/Wikidepia/g2p-id)
+1. 📔 Created new repository [rakkaalhazimi/Microsoft-Graph-SDK-Test](https://github.com/rakkaalhazimi/Microsoft-Graph-SDK-Test)
+2. ⭐ Starred [toadjaune/pulseaudio-config](https://github.com/toadjaune/pulseaudio-config)
 <!--RECENT_ACTIVITY:end-->
 
 ---
