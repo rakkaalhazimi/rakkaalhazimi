@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/Microsoft-Graph-SDK-Test](https://github.com/rakkaalhazimi/Microsoft-Graph-SDK-Test)
-2. ⭐ Starred [toadjaune/pulseaudio-config](https://github.com/toadjaune/pulseaudio-config)
+1. ❗️ Opened issue [#1036](https://github.com/OfficeDev/Microsoft-Teams-Samples/issues/1036) in [OfficeDev/Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples)
+2. 📔 Created new repository [rakkaalhazimi/Microsoft-Graph-SDK-Test](https://github.com/rakkaalhazimi/Microsoft-Graph-SDK-Test)
 <!--RECENT_ACTIVITY:end-->
 
 ---
