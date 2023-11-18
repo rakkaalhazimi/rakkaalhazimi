@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1036](https://github.com/OfficeDev/Microsoft-Teams-Samples/issues/1036) in [OfficeDev/Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples)
-2. 💬 Commented on [#1036](https://github.com/OfficeDev/Microsoft-Teams-Samples/issues/1036#issuecomment-1809560865) in [OfficeDev/Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples)
+1. 📔 Created new repository [rakkaalhazimi/CSharpTutorial](https://github.com/rakkaalhazimi/CSharpTutorial)
+2. ✔️ Closed issue [#1036](https://github.com/OfficeDev/Microsoft-Teams-Samples/issues/1036) in [OfficeDev/Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples)
 <!--RECENT_ACTIVITY:end-->
 
 ---
