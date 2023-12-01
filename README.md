@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/CSharpTutorial](https://github.com/rakkaalhazimi/CSharpTutorial)
-2. ✔️ Closed issue [#1036](https://github.com/OfficeDev/Microsoft-Teams-Samples/issues/1036) in [OfficeDev/Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples)
+1. 📔 Created new repository [rakkaalhazimi/NetsJS-Tutorial](https://github.com/rakkaalhazimi/NetsJS-Tutorial)
+2. 📔 Created new repository [rakkaalhazimi/CSharpTutorial](https://github.com/rakkaalhazimi/CSharpTutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
