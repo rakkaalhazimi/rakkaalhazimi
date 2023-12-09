@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/nuxt-tutorial](https://github.com/rakkaalhazimi/nuxt-tutorial)
-2. 📔 Created new repository [rakkaalhazimi/NetsJS-Tutorial](https://github.com/rakkaalhazimi/NetsJS-Tutorial)
+1. 📔 Created new repository [rakkaalhazimi/nextjs-tutorial](https://github.com/rakkaalhazimi/nextjs-tutorial)
+2. 📔 Created new repository [rakkaalhazimi/nuxt-tutorial](https://github.com/rakkaalhazimi/nuxt-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
