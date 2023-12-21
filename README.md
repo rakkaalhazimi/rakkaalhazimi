@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#685](https://github.com/microsoftgraph/microsoft-graph-comms-samples/issues/685) in [microsoftgraph/microsoft-graph-comms-samples](https://github.com/microsoftgraph/microsoft-graph-comms-samples)
-2. 📔 Created new repository [rakkaalhazimi/nextjs-tutorial](https://github.com/rakkaalhazimi/nextjs-tutorial)
+1. 📔 Created new repository [rakkaalhazimi/emu-wandehoi](https://github.com/rakkaalhazimi/emu-wandehoi)
+2. ❗️ Opened issue [#685](https://github.com/microsoftgraph/microsoft-graph-comms-samples/issues/685) in [microsoftgraph/microsoft-graph-comms-samples](https://github.com/microsoftgraph/microsoft-graph-comms-samples)
 <!--RECENT_ACTIVITY:end-->
 
 ---
