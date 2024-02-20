@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [rakkaalhazimi/FreeVC](https://github.com/rakkaalhazimi/FreeVC) from [OlaWod/FreeVC](https://github.com/OlaWod/FreeVC)
-2. 📔 Created new repository [rakkaalhazimi/emu-wandehoi](https://github.com/rakkaalhazimi/emu-wandehoi)
+1. 🔱 Forked [rakkaalhazimi/chrome-extensions-samples](https://github.com/rakkaalhazimi/chrome-extensions-samples) from [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)
+2. 🔱 Forked [rakkaalhazimi/FreeVC](https://github.com/rakkaalhazimi/FreeVC) from [OlaWod/FreeVC](https://github.com/OlaWod/FreeVC)
 <!--RECENT_ACTIVITY:end-->
 
 ---
