@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [rakkaalhazimi/chrome-extensions-samples](https://github.com/rakkaalhazimi/chrome-extensions-samples) from [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)
-2. 🔱 Forked [rakkaalhazimi/FreeVC](https://github.com/rakkaalhazimi/FreeVC) from [OlaWod/FreeVC](https://github.com/OlaWod/FreeVC)
+1. 💬 Commented on [#685](https://github.com/microsoftgraph/microsoft-graph-comms-samples/issues/685#issuecomment-1986940674) in [microsoftgraph/microsoft-graph-comms-samples](https://github.com/microsoftgraph/microsoft-graph-comms-samples)
+2. 🔱 Forked [rakkaalhazimi/chrome-extensions-samples](https://github.com/rakkaalhazimi/chrome-extensions-samples) from [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)
 <!--RECENT_ACTIVITY:end-->
 
 ---
