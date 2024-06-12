@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/NianHitYou](https://github.com/rakkaalhazimi/NianHitYou)
-2. 💬 Commented on [#685](https://github.com/microsoftgraph/microsoft-graph-comms-samples/issues/685#issuecomment-1986940674) in [microsoftgraph/microsoft-graph-comms-samples](https://github.com/microsoftgraph/microsoft-graph-comms-samples)
+1. 📔 Created new repository [rakkaalhazimi/VtuberApp](https://github.com/rakkaalhazimi/VtuberApp)
+2. 📔 Created new repository [rakkaalhazimi/NianHitYou](https://github.com/rakkaalhazimi/NianHitYou)
 <!--RECENT_ACTIVITY:end-->
 
 ---
