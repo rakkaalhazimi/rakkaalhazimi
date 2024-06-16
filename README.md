@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/VtuberApp](https://github.com/rakkaalhazimi/VtuberApp)
-2. 📔 Created new repository [rakkaalhazimi/NianHitYou](https://github.com/rakkaalhazimi/NianHitYou)
+1. ⭐ Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)
+2. 📔 Created new repository [rakkaalhazimi/VtuberApp](https://github.com/rakkaalhazimi/VtuberApp)
 <!--RECENT_ACTIVITY:end-->
 
 ---
