@@ -36,7 +36,7 @@
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [rakkaalhazimi/google-api-js-sample](https://github.com/rakkaalhazimi/google-api-js-sample)
-2. ⭐ Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)
+2. 📔 Created new repository [rakkaalhazimi/google-api-js-sample](https://github.com/rakkaalhazimi/google-api-js-sample)
 <!--RECENT_ACTIVITY:end-->
 
 ---
