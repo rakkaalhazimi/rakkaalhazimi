@@ -35,7 +35,7 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/google-api-js-sample](https://github.com/rakkaalhazimi/google-api-js-sample)
+1. ⭐ Starred [yeemachine/kalidoface](https://github.com/yeemachine/kalidoface)
 2. 📔 Created new repository [rakkaalhazimi/google-api-js-sample](https://github.com/rakkaalhazimi/google-api-js-sample)
 <!--RECENT_ACTIVITY:end-->
 
