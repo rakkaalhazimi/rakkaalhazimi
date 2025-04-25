@@ -15,11 +15,11 @@
 ### YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[Arknights ID] Maximum Lappland Alter Gacha !!!!!](https://www.youtube.com/watch?v=gs0a8vqMYmo)
 - [Python - Mengulik Cara Kerja Fitur Import](https://www.youtube.com/watch?v=SaVjfOb4F1Q)
 - [[Arknight EN] Lappland Supremacy !! - DH-S-2 Challenge Mode](https://www.youtube.com/watch?v=aK4tEFsXpUM)
 - [[Arknight - Untitled World] Ascii Frame with Python](https://www.youtube.com/watch?v=saqsllN1qpk)
 - [Dino Runner AI with Policy Gradient Method](https://www.youtube.com/watch?v=JTZp70w8Kks)
-- [Snotty Boy Meme  - Types of Programmers](https://www.youtube.com/watch?v=n0HemQzutPA)
 <!-- YOUTUBE:END -->
 
 ---
