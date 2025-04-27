@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit)
-2. ⭐ Starred [yeemachine/kalidoface](https://github.com/yeemachine/kalidoface)
+1. ⭐ Starred [benikabocha/saba](https://github.com/benikabocha/saba)
+2. 📔 Created new repository [rakkaalhazimi/OpenGL-Tutorial](https://github.com/rakkaalhazimi/OpenGL-Tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ---
