@@ -35,7 +35,7 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [rakkaalhazimi/VtuberAppOpenGL_VisualStudio](https://github.com/rakkaalhazimi/VtuberAppOpenGL_VisualStudio)
+1. ⭐ Starred [geaxgx/openvino_blazepose](https://github.com/geaxgx/openvino_blazepose)
 2. 📔 Created new repository [rakkaalhazimi/OpenGL-Tutorial](https://github.com/rakkaalhazimi/OpenGL-Tutorial)
 <!--RECENT_ACTIVITY:end-->
 
