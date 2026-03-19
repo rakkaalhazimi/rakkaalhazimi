@@ -35,7 +35,7 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [geaxgx/openvino_blazepose](https://github.com/geaxgx/openvino_blazepose)
+1. ⭐ Starred [vajol/python-data-engineering-resources](https://github.com/vajol/python-data-engineering-resources)
 2. 📔 Created new repository [rakkaalhazimi/OpenGL-Tutorial](https://github.com/rakkaalhazimi/OpenGL-Tutorial)
 <!--RECENT_ACTIVITY:end-->
 
