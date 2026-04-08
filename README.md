@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vajol/python-data-engineering-resources](https://github.com/vajol/python-data-engineering-resources)
-2. 📔 Created new repository [rakkaalhazimi/OpenGL-Tutorial](https://github.com/rakkaalhazimi/OpenGL-Tutorial)
+1. ⭐ Starred [sitek94/vite-deploy-demo](https://github.com/sitek94/vite-deploy-demo)
+2. ⭐ Starred [vajol/python-data-engineering-resources](https://github.com/vajol/python-data-engineering-resources)
 <!--RECENT_ACTIVITY:end-->
 
 ---
