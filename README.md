@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AmyangXYZ/MiKaPo](https://github.com/AmyangXYZ/MiKaPo)
-2. ⭐ Starred [vajol/python-data-engineering-resources](https://github.com/vajol/python-data-engineering-resources)
+1. 💪 Opened PR [#1](undefined) in [rakkaalhazimi/Rakka-Toolbox](https://github.com/rakkaalhazimi/Rakka-Toolbox)
+2. ⭐ Starred [AmyangXYZ/MiKaPo](https://github.com/AmyangXYZ/MiKaPo)
 <!--RECENT_ACTIVITY:end-->
 
 ---
