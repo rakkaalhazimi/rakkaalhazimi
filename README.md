@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#9](undefined) in [rakkaalhazimi/Rakka-Toolbox](https://github.com/rakkaalhazimi/Rakka-Toolbox)
-2. 💪 Opened PR [#8](undefined) in [rakkaalhazimi/Rakka-Toolbox](https://github.com/rakkaalhazimi/Rakka-Toolbox)
+1. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
+2. 💪 Opened PR [#9](undefined) in [rakkaalhazimi/Rakka-Toolbox](https://github.com/rakkaalhazimi/Rakka-Toolbox)
 <!--RECENT_ACTIVITY:end-->
 
 ---
