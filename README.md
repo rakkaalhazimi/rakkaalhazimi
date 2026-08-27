@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#11](undefined) in [rakkaalhazimi/Rakka-Toolbox](https://github.com/rakkaalhazimi/Rakka-Toolbox)
-2. 💪 Opened PR [#10](undefined) in [rakkaalhazimi/Rakka-Toolbox](https://github.com/rakkaalhazimi/Rakka-Toolbox)
+1. 💪 Opened PR [#12](undefined) in [rakkaalhazimi/Rakka-Toolbox](https://github.com/rakkaalhazimi/Rakka-Toolbox)
+2. 💪 Opened PR [#11](undefined) in [rakkaalhazimi/Rakka-Toolbox](https://github.com/rakkaalhazimi/Rakka-Toolbox)
 <!--RECENT_ACTIVITY:end-->
 
 ---
