@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12](undefined) in [rakkaalhazimi/Rakka-Toolbox](https://github.com/rakkaalhazimi/Rakka-Toolbox)
-2. 💪 Opened PR [#11](undefined) in [rakkaalhazimi/Rakka-Toolbox](https://github.com/rakkaalhazimi/Rakka-Toolbox)
+1. ⭐ Starred [jin-qu/jinqu](https://github.com/jin-qu/jinqu)
+2. ⭐ Starred [fordth/jinqJs](https://github.com/fordth/jinqJs)
 <!--RECENT_ACTIVITY:end-->
 
 ---
