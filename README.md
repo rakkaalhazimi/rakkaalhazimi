@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jin-qu/jinqu](https://github.com/jin-qu/jinqu)
-2. ⭐ Starred [fordth/jinqJs](https://github.com/fordth/jinqJs)
+1. 💪 Opened PR [#6](undefined) in [anhnt20112003/stronghold-protocol-alliance-database](https://github.com/anhnt20112003/stronghold-protocol-alliance-database)
+2. 🔱 Forked [rakkaalhazimi/stronghold-protocol-alliance-database](https://github.com/rakkaalhazimi/stronghold-protocol-alliance-database) from [anhnt20112003/stronghold-protocol-alliance-database](https://github.com/anhnt20112003/stronghold-protocol-alliance-database)
 <!--RECENT_ACTIVITY:end-->
 
 ---
