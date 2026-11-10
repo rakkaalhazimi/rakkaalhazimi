@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [rakkaalhazimi/VtuberApp-BabylonJS](https://github.com/rakkaalhazimi/VtuberApp-BabylonJS)
-2. 🔱 Forked [rakkaalhazimi/stronghold-protocol-alliance-database](https://github.com/rakkaalhazimi/stronghold-protocol-alliance-database) from [anhnt20112003/stronghold-protocol-alliance-database](https://github.com/anhnt20112003/stronghold-protocol-alliance-database)
+1. 💪 Opened PR [#2](undefined) in [rakkaalhazimi/VtuberApp-BabylonJS](https://github.com/rakkaalhazimi/VtuberApp-BabylonJS)
+2. 💪 Opened PR [#1](undefined) in [rakkaalhazimi/VtuberApp-BabylonJS](https://github.com/rakkaalhazimi/VtuberApp-BabylonJS)
 <!--RECENT_ACTIVITY:end-->
 
 ---
