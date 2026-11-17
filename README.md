@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
-2. ⭐ Starred [ASLP-lab/MeanVC2](https://github.com/ASLP-lab/MeanVC2)
+1. 💪 Opened PR [#3](undefined) in [rakkaalhazimi/VtuberApp-BabylonJS](https://github.com/rakkaalhazimi/VtuberApp-BabylonJS)
+2. ⭐ Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 <!--RECENT_ACTIVITY:end-->
 
 ---
