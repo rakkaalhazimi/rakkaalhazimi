@@ -35,8 +35,8 @@
 
 ### Recent Github Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3](undefined) in [rakkaalhazimi/VtuberApp-BabylonJS](https://github.com/rakkaalhazimi/VtuberApp-BabylonJS)
-2. ⭐ Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+1. 💪 Opened PR [#4](undefined) in [rakkaalhazimi/VtuberApp-BabylonJS](https://github.com/rakkaalhazimi/VtuberApp-BabylonJS)
+2. 💪 Opened PR [#3](undefined) in [rakkaalhazimi/VtuberApp-BabylonJS](https://github.com/rakkaalhazimi/VtuberApp-BabylonJS)
 <!--RECENT_ACTIVITY:end-->
 
 ---
